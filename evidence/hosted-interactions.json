@@ -1,0 +1,131 @@
+{
+  "passed": true,
+  "count": 31,
+  "tests": [
+    {
+      "name": "Latest: 16 captured cards",
+      "passed": true
+    },
+    {
+      "name": "Popular sort",
+      "passed": true
+    },
+    {
+      "name": "Oldest: 14 captured cards",
+      "passed": true
+    },
+    {
+      "name": "Reposts: 28 captured cards",
+      "passed": true
+    },
+    {
+      "name": "Repost image preview opens",
+      "passed": true
+    },
+    {
+      "name": "UTF-8 close glyph preserved",
+      "passed": true
+    },
+    {
+      "name": "Escape closes preview",
+      "passed": true
+    },
+    {
+      "name": "Private Liked state",
+      "passed": true
+    },
+    {
+      "name": "Videos preserves selected sort",
+      "passed": true
+    },
+    {
+      "name": "Suggested accounts expands",
+      "passed": true
+    },
+    {
+      "name": "Suggested accounts collapses",
+      "passed": true
+    },
+    {
+      "name": "Native Share modal and inert background",
+      "passed": true
+    },
+    {
+      "name": "Share closes",
+      "passed": true
+    },
+    {
+      "name": "Native Actions menu",
+      "passed": true
+    },
+    {
+      "name": "Report is gated, not submitted",
+      "passed": true
+    },
+    {
+      "name": "No credential collection",
+      "passed": true
+    },
+    {
+      "name": "Sidebar collapses",
+      "passed": true
+    },
+    {
+      "name": "Hover reveals expand control",
+      "passed": true
+    },
+    {
+      "name": "Sidebar expands",
+      "passed": true
+    },
+    {
+      "name": "More panel opens",
+      "passed": true
+    },
+    {
+      "name": "More panel closes",
+      "passed": true
+    },
+    {
+      "name": "Local search opens",
+      "passed": true
+    },
+    {
+      "name": "Sandbox-safe search submit",
+      "passed": true
+    },
+    {
+      "name": "Caption search filters locally",
+      "passed": true
+    },
+    {
+      "name": "Escape clears local search",
+      "passed": true
+    },
+    {
+      "name": "Latest image preview opens",
+      "passed": true
+    },
+    {
+      "name": "Preview closes and restores background",
+      "passed": true
+    },
+    {
+      "name": "Backend disabled",
+      "passed": true
+    },
+    {
+      "name": "Native frame has zero HTTP resources",
+      "passed": true
+    },
+    {
+      "name": "Strict no-network CSP",
+      "passed": true
+    },
+    {
+      "name": "All currently rendered images decode",
+      "passed": true
+    }
+  ],
+  "method": "DOM-event regression checks; real pointer/keyboard checks recorded separately"
+}

@@ -1,0 +1,31 @@
+{
+  "componentId": "463196993091698688",
+  "revisionId": "463207416511750144",
+  "preview": "https://api.magicpath.ai/v1/cleverly-minute-5016",
+  "nativeViewport": {
+    "width": 1172,
+    "height": 809
+  },
+  "capturedStates": [
+    "actions",
+    "collapsed-hover",
+    "collapsed",
+    "latest",
+    "liked",
+    "login",
+    "more",
+    "oldest",
+    "popular",
+    "reposts",
+    "share",
+    "suggestions"
+  ],
+  "embeddedAssets": 121,
+  "matchedElements": 574,
+  "hostedInteractionChecks": 31,
+  "typeScriptPassed": true,
+  "portableProductionBuildPassed": true,
+  "hostedOfflinePayloadIdentical": true,
+  "decodedPayloadScanPassed": true,
+  "backendEnabled": false
+}
